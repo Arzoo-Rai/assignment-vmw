@@ -1,0 +1,1 @@
+## to run the app locally do npm install and run npm start
